@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Ideas in the Cloud]]></title>
+  <link href="http://tharhtet.zwenex.com/atom.xml" rel="self"/>
+  <link href="http://tharhtet.zwenex.com/"/>
+  <updated>2013-11-08T09:09:08+06:30</updated>
+  <id>http://tharhtet.zwenex.com/</id>
+  <author>
+    <name><![CDATA[Thar Htet]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Glad to be back on Writing.]]></title>
+    <link href="http://tharhtet.zwenex.com/blog/2013/11/08/glad-to-be-back-on-writing/"/>
+    <updated>2013-11-08T08:57:00+06:30</updated>
+    <id>http://tharhtet.zwenex.com/blog/2013/11/08/glad-to-be-back-on-writing</id>
+    <content type="html"><![CDATA[<p>It is great to be back online without really have to worry about blog hosting and complex configuration. I just don&rsquo;t have the time for that. But I just wanted a simple place to publish my writing.</p>
+]]></content>
+  </entry>
+  
+</feed>
